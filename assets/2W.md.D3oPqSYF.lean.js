@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,ae as i}from"./chunks/framework.Dh1jimFm.js";const f=JSON.parse('{"title":"谢谢♪(･ω･)ﾉ各位的赞助","description":"","frontmatter":{},"headers":[],"relativePath":"2W.md","filePath":"2W.md"}'),r={name:"2W.md"};function c(d,a,n,s,l,h){return o(),t("div",null,a[0]||(a[0]=[i("",5)]))}const _=e(r,[["render",c]]);export{f as __pageData,_ as default};
